@@ -1,7 +1,7 @@
 package org.bean;
 import java.io.Serializable;
 public class Author {
-	//add,add
+	//add,add,first
 	private int AuthorID;
 	private String Name;
 	private int Age;

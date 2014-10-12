@@ -9,6 +9,7 @@ import org.daoImpl.*;
 import org.db.*;
 
 public class BookAddAction {
+	//add,add,first
 	private String ISBN;
 	private String Title;
 	private int AuthorID;
