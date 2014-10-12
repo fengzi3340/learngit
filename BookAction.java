@@ -9,6 +9,7 @@ import org.db.*;
 import java.io.*;
 public class BookAction extends ActionSupport {
 	//add,add,first
+	//add,first
 	private String authorname;
 	private List<Book> list;
 	private BookImpl boImpl = new BookImpl();
