@@ -1,6 +1,7 @@
 package org.bean;
 import java.io.Serializable;
 public class Book implements Serializable {
+	//add,first
 	private String ISBN;
 	private String Title;
 	private int AuthorID;
